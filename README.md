@@ -1,4 +1,4 @@
-# MovieRecommendation
+# Implementation of MovieRecommendation system
 
 ##Problem statement
   Check out all the movies and their respective IDs lementation of Movie Recommender System
